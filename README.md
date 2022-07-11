@@ -1,4 +1,4 @@
-# Fund Risk-Return Analyzer
+# Fund Risk-Management Analyzer
 This project evaluates four new investment options to determine which should be included in a firm's client portfolio.  The four funds evaluated are Soros Fund Management LLC,
 Paulson & Co. Inc, Tiger Global Management LLC, and Berkshire Hathaway Inc. Each fund's performance will be analyzed against the S&P 500.  The fund with the most investment 
 potential will be based upon the following key risk-management metrics:
@@ -29,7 +29,7 @@ This application leverages python 3.7 with the following libraries and packages:
 
 ## Usage
 
-To use the fund risk-return analyzer application you must first launch Jupyter Lab by executing the following command within Git Bash:
+To use the fund risk-management analyzer application you must first launch Jupyter Lab by executing the following command within Git Bash:
 
 ```python
 jupyter lab
