@@ -1,7 +1,7 @@
 # Fund Risk-Management Analyzer
 This project evaluates four new investment options to determine which should be included in a firm's client portfolio.  The four funds evaluated are Soros Fund Management LLC,
-Paulson & Co. Inc, Tiger Global Management LLC, and Berkshire Hathaway Inc. Each fund's performance will be analyzed against the S&P 500.  The fund with the most investment 
-potential will be based upon the following key risk-management metrics:
+Paulson & Co. Inc, Tiger Global Management LLC, and Berkshire Hathaway Inc. Each fund's performance will be compared to the S&P 500 during the years 2014-2020.  The fund with 
+the most investment potential will be analyzed based upon the following key risk-management metrics:
 
 * Daily Returns
 * Standard Deviations
